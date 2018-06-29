@@ -1,0 +1,64 @@
+
+body {
+	background-image: url( ../images/bg.png);
+	background size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: 'Song Myung', serif;
+
+
+}
+
+
+h1{
+	color: gold;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+
+
+	
+}
+
+h2{
+	color: white;
+	font-size: 18px;
+	margin-bottom: 0;
+	font-family: 'Domine', serif;
+	
+}
+
+.bio{
+	color: white;
+	font-size: 14px;
+	font-family: 'Crimson Text', serif;
+	background-color: black;
+	font-family: 'Montserrat Alternates', sans-serif;
+
+
+	
+
+}
+.me{
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: gold;
+	margin-top: 40px;
+
+	
+
+}
+
+.about {
+
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
