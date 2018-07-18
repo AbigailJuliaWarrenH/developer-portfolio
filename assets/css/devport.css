@@ -1,0 +1,170 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url( ../images/pbg.jpeg);
+	background size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: 'Song Myung', serif;
+	margin-bottom: 300%;
+
+
+}
+
+
+
+
+h1{
+	color: gold;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2{
+	color: white;
+	font-size: 18px;
+	margin-bottom: 0;
+	font-family: 'Domine', serif;
+	
+}
+
+.bio{
+	color: white;
+	font-size: 14px;
+	font-family: 'Crimson Text', serif;
+	background-color: black;
+	font-family: 'Montserrat Alternates', sans-serif;
+
+
+	
+
+}
+/*.me{
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: gold;
+	margin-top: 40px;
+*/
+	
+
+}
+
+.about {
+	
+	margin-left: 30;
+
+	/*width: 500px;
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: left;
+*/
+}
+.col-md-4 {
+  /*background-color: tomato;*/
+  margin-left:-800px;
+  margin-top: 100px;
+}
+
+.container-fluid{
+	background-color: black;
+	height: 300%;
+	width: 300%;
+	position: relative;
+}
+
+
+blockquote{
+	font-family: 'Nothing You Could Do', cursive;
+
+}
+
+.kj{
+	font-family: 'Libre Barcode 128 Text', cursive;
+}
+
+.portfolio{
+	font-family: 'Monoton', cursive;
+	text-align: center;
+}
+
+.navbar .navbar-brand {
+	background-color: black;
+	font-family: 'Fugaz One', cursive;
+
+
+}
+
+
+
+#navbarnav .nav-link {
+	color: pink;
+	background-color: black;
+}
+
+.centered {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.centered2 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: pink;
+    color: black;
+}
+
+/*#portf{
+	width: 10px;
+	height: 20px;
+	border-radius: 20px;
+}*/
+
+/*test modal*/
+.top1{
+
+    height:390px;
+    background-color:#FFFFFF;
+    margin-top:10px;
+
+
+}
+
+#portf{
+height:230px;
+width: 200px;
+border-radius: 20px; 
+}
+
+/*.portf1 img {
+	height: 300px !important;
+	width: 300px !important;
+}*/
+
+.name1{
+
+background-color:#555555;
+height:90px;
+
+}
