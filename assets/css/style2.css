@@ -57,7 +57,11 @@ h2{
 	
 
 }
-
+.prj{
+	color: yellow;
+	font-family: 'Poor Story', cursive;
+	font: 25px;
+}
 .me{
 	height: 120px;
 	width: 120px;
@@ -74,12 +78,29 @@ h2{
 	margin-right: auto;
 	text-align: left;
     opacity: 0.8;
-    top: 400px;
-    left: 500px;
+    top: 600px;
+    left: 350px;
     position: relative;
+
     
     
 }
+
+.container2{
+    color: white;
+    font-family: 'Domine', serif;
+    font-size: 15px;
+    top: 370px;
+    position: relative;
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+    background-color: black;
+    opacity: 0.8;
+
+    
+}
+
 
 .container {
     background: gray;
@@ -90,15 +111,34 @@ p{
     color: azure;
 }
 
-.prj{
-    background: black;
-	width: 500px;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: right;
-    opacity: 0.8;
-    top: 400px;
-    left: 500px;
-    position: relative;
+.about {
+	
+	margin-left: 30;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px){
+    body {
+	background-image: url( ../images/pbg.jpeg);
+	background size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: 'Song Myung', serif;
+	margin-bottom: 300%;
+    width: 100vw;
+    height: 100vh;
+}	
+
+@media (min-width: 768px) and (max-width: 767.98px){
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+   
+
+@media (min-width: 1200px) {
     
 }
